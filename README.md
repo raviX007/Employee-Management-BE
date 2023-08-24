@@ -52,8 +52,4 @@ This is a simple Node.js application that demonstrates CRUD (Create, Read, Updat
 Contributions are welcome! If you find any bugs or want to add new features, feel free to open an issue or submit a pull request.
 
 
----
-
-Created by [Your Name](https://github.com/ravix007)
-```
 
