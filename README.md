@@ -1,5 +1,5 @@
 
-# Node.js PostgreSQL CRUD Application
+# Employee Management Node.js Rest api 
 
 This is a simple Node.js application that demonstrates CRUD (Create, Read, Update, Delete) operations using PostgreSQL as the database. It uses the Sequelize ORM to interact with the database.
 
@@ -8,7 +8,7 @@ This is a simple Node.js application that demonstrates CRUD (Create, Read, Updat
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/ravix007/Node_crud
+   git clone https://github.com/ravix007/Employee-Management-BE
    cd Node_crud
    ```
 
